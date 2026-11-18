@@ -37,4 +37,4 @@ RESOURCE_ENDPOINT=https://YOUR_URL_HERE
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Citation
-* Ziegeler K, Kreutzinger V, Tong MW, Chin CT, Bahroos E, Bonnheim N, Fields AJ, Lotz J, Link TM, Majumdar S. A fully automized pipeline for information extraction from lumbar spine MRI radiology reports using GPT4: opportunities and challenges in low-back pain.
+* Ziegeler K, Kreutzinger V, Tong MW, Chin CT, Bahroos E, Wu P-H, Bonnheim N, Fields AJ, Lotz JC, Link TM, et al. Information Extraction from Lumbar Spine MRI Radiology Reports Using GPT4: Accuracy and Benchmarking Against Research-Grade Comprehensive Scoring. Diagnostics. 2025; 15(7):930. [10.1016/j.mri.2024.110222](https://doi.org/10.3390/diagnostics15070930)
